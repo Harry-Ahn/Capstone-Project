@@ -1,2 +1,2 @@
-,Date,closingprice,closingpricemax20d,closingpriceavg20d,closingpricemin20d,closingpricemax52w,closingpriceavg52w,closingpricemin52w,closingpricemax5d,closingpriceavg5d,closingpricemin5d,MA3M,MA6M,MAweek,MAyear,tradingvolavg5d,vol120d,vol20d,vol52w,vol60d,riskfree,actualreturn
-271,2022-07-31,40300.0,48400.0,44660.0,40300.0,78600.0,50472.0,36200.0,43500.0,42020.0,40300.0,-11.62,-33.39,-8.2,-27.78,408463.0,0.0297,0.0363,0.038,0.0317,2.341,5.08
+,Date,closingprice,closingpricemax20d,closingpriceavg20d,closingpricemin20d,closingpricemax52w,closingpriceavg52w,closingpricemin52w,closingpricemax5d,closingpriceavg5d,closingpricemin5d,relativeMA1M,MA3M,MA6M,MAweek,MAyear,tradingvolavg5d,vol120d,vol20d,vol52w,vol60d,riskfree,actualreturn
+271,2022-07-31,40300.0,48400.0,44660.0,40300.0,78600.0,50472.0,36200.0,43500.0,42020.0,40300.0,0.4182865370770338,-11.62,-33.39,-8.2,-27.78,408463.0,0.0297,0.0363,0.038,0.0317,2.341,5.08
